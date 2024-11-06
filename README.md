@@ -8,3 +8,4 @@ Example: “Is it weekend OR a holiday?”
 
 NOT (!): Inverts conditions, often simplifying logic.
 Example: “Is it NOT raining?”
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7259871430203355136" height="804" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
